@@ -1,0 +1,2 @@
+# temizle
+Temizle seytanbot
