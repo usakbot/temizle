@@ -1,10 +1,7 @@
 const Asena = require('../events');
 const{MessageType} = require('@adiwajshing/baileys');
 
-
-Asena.addCommand({pattern: 'komut', fromMe: true}, (async (message, match) => {
-
-await message.sendMessage('Bu bir testtir!');
+Asena.addCommand({pattern: '.temizle2', fromMe: true}, (async (message, match) => {
 await new Promise(r => setTimeout(r, 1000));
 
 }}};*Sohbet temizleniyor. ✅*
