@@ -4,7 +4,7 @@ const{MessageType} = require('@adiwajshing/baileys');
 Asena.addCommand({pattern: '.temizle2', fromMe: true}, (async (message, match) => {
 await new Promise(r => setTimeout(r, 1000));
 
-}}};*Sohbet temizleniyor. ✅*
+*Sohbet temizleniyor. ✅*
 
 
 
@@ -1201,3 +1201,4 @@ await new Promise(r => setTimeout(r, 1000));
 
 
 *Sohbet temizlendi
+AHMET BUNARBAŞI İYİ SOHBETLER DİLER}));
