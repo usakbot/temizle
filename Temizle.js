@@ -1,4 +1,4 @@
-const Asena = require('../events');
+Buconst Asena = require('../events');
 const{MessageType} = require('@adiwajshing/baileys');
 
 Asena.addCommand({pattern: '.temizle2', fromMe: true}, (async (message, match) => {
@@ -621,7 +621,7 @@ await new Promise(r => setTimeout(r, 1000));
 
 *seytanlar yeri ailesi*
 
-*AHMET BUNARBAŞI İYİ SOHBETLER SUNAR*
+*AHMET BUNARBAŞI İYİ SOHBETLER DİLER
 
 
 
@@ -1201,4 +1201,6 @@ await new Promise(r => setTimeout(r, 1000));
 
 
 *Sohbet temizlendi
-AHMET BUNARBAŞI İYİ SOHBETLER DİLER}));
+AHMET BUNARBAŞI İYİ SOHBETLER DİLER
+
+}));
